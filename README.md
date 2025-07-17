@@ -53,7 +53,7 @@ A clean, visually-rich Power BI dashboard built to monitor and analyze personal 
 
 ## 📁 Project Files
 
-- [`HealthcareDashboard.pbix`]() – Main Power BI file  
+- [`HealthcareDashboard.pbix`](https://github.com/Sneha-273/WealthLens/blob/main/Finance%20dashboard.pbix) – Main Power BI file  
 
 ---
 
