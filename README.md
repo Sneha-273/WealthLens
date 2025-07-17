@@ -44,8 +44,8 @@ A clean, visually-rich Power BI dashboard built to monitor and analyze personal 
 | Excel       | Data source setup and structure          |
 
 ---
+## 🎞️ Dashboard Preview 
 
-## 🖼️ Screenshot
 
 ![WealthLens Static View](https://github.com/Sneha-273/WealthLens/blob/main/Finance.gif)
 
@@ -65,7 +65,7 @@ A clean, visually-rich Power BI dashboard built to monitor and analyze personal 
 
 ---
 
-## 🎞️ Dashboard Preview (GIF)
+## 🖼️ Screenshot
 
 ![WealthLens Demo](https://github.com/Sneha-273/WealthLens/blob/main/Finance.gif)
 
