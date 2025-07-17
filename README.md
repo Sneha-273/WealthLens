@@ -54,13 +54,7 @@ A clean, visually-rich Power BI dashboard built to monitor and analyze personal 
 ## 📁 Project Files
 
 ```
-📁 WealthLens-Finance-Dashboard
-├── 📄 WealthLens_Dashboard.pbix
-├── 📊 FinanceData.xlsx
-├── 📁 Assets/
-│   ├── dashboard_preview.png
-│   └── wealthlens_demo.gif
-└── 📄 README.md
+
 ```
 
 ---
