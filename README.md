@@ -53,9 +53,7 @@ A clean, visually-rich Power BI dashboard built to monitor and analyze personal 
 
 ## 📁 Project Files
 
-```
-
-```
+- [`HealthcareDashboard.pbix`]() – Main Power BI file  
 
 ---
 
