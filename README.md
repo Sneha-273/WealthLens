@@ -1,5 +1,5 @@
 
-# 💼 WealthLens: Financial Overview Dashboard
+#  WealthLens: Financial Overview Dashboard
 
 A clean, visually-rich Power BI dashboard built to monitor and analyze personal financial performance. **WealthLens** helps track income, expenses, savings, and financial targets over time with intuitive visuals and insightful metrics.
 
@@ -16,18 +16,18 @@ A clean, visually-rich Power BI dashboard built to monitor and analyze personal 
 
 ## ✨ Key Features
 
-- 📈 **Line Chart**: Shows time-based trends for income, expenses, savings, and targets  
-- 🍩 **Donut Charts**: 
+- **Line Chart**: Shows time-based trends for income, expenses, savings, and targets  
+-  **Donut Charts**: 
   - Breakdown of **Expenses** and **Savings** by category  
   - Tooltip reveals monthly values and changes  
-- 📋 **Expandable Financial Table**: 
+-  **Expandable Financial Table**: 
   - View complete breakdown of income, expenses, and savings  
   - Expand/collapse subcategories  
-- 💡 **KPI Cards**:
+-  **KPI Cards**:
   - Total income, expenses, savings, and targets  
   - % of savings and monthly growth for each  
   - Font color changes based on positive or negative growth  
-- 🧭 **Filters & Controls**:
+-  **Filters & Controls**:
   - Button slicers for **years** (2021–2024)  
   - Dropdown slicer for **Month-Year**  
   - Calendar and refresh buttons for enhanced interactivity
